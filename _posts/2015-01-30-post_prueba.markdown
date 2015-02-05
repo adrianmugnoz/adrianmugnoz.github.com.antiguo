@@ -16,3 +16,6 @@ Comienzo este blog con una nueva plataforma de blogging basado en páginas está
 
 #Links
 Os animo a visitar [Divúlgame](http://www.divulgame.net).
+
+
+$$a^2 + b^2 = c^2$$
