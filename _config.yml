@@ -3,11 +3,11 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Adrián Muñoz"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Pensamientos
 
-email: a-mail@mail.mail
+email: adrianmugnoz@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
@@ -19,14 +19,14 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://adrianmugnoz.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/adrianmugnoz
+    desc: Sígueme en Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -39,7 +39,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/adrianmugnoz
     desc:	Fork me on github
     share_url:
     share_title:
