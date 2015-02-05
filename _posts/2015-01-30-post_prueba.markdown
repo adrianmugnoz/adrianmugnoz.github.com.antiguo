@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Post de Prueba
-date: {}
+date: 2014-08-29 14:34:25
 categories: prueba prueba2
-tags: null
+tags: regular
 image: "/assets/article_images/2014-11-30-mediator_features/night-track.JPG"
 published: true
 ---
