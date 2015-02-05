@@ -1,41 +1,18 @@
 ---
 layout: post
-title: Hola Mundo!
-date: 2015-01-29 14:34:25
+title: "Hola Mundo!"
+date: {}
 categories: prueba prueba2
 tags: featured
 image: "/assets/article_images/2014-11-30-mediator_features/night-track.JPG"
 published: true
 ---
 
-#Mediator Formats and CSS features
+Comienzo este blog con una nueva plataforma de blogging basado en páginas estáticas. Próximamente iré poniendo aquí más contenido, conforme los exámenes me lo permitan.
 
-Examples for different formats and css features
+> El error proviene del hecho de la precipitación
 
-#Header Formats
-#Header1
-##Header2
 
-#Blockquotes
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
-
-##unorderd lists
-- Apple
-- Banana
-- Plum
 
 #Links
-This is an [example link](http://example.com/ "With a Title").
-
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
+Os animo a visitar [Divúlgame](http://www.divulgame.net).
