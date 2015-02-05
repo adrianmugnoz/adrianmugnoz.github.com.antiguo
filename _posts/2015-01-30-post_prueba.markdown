@@ -21,3 +21,5 @@ Os animo a visitar [Divúlgame](http://www.divulgame.net).
 $$a^2 + b^2 = c^2$$
 
 $$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
+
+![gif barça](https://lh5.googleusercontent.com/k2Wq8qYMO1baqLwJ8a3fPXFyWCNNdoNYM9BFq73YvoQ=s0 "elscatalans.gif")
