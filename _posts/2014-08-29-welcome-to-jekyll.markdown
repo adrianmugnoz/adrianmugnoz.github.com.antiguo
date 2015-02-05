@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hola Mundo!"
 date:   2014-08-29 14:34:25
-categories: jekyll update
+categories: bienvenido
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
