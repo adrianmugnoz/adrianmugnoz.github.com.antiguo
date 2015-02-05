@@ -4,7 +4,7 @@ title: "Hola Mundo!"
 date: 2015-01-29 14:34:25
 categories: general
 tags: featured
-image: "/assets/article_images/2014-11-30-mediator_features/night-track.JPG"
+image: "https://d262ilb51hltx0.cloudfront.net/max/1400/1*TMKVJpNgc2uawWFv9OUBkA.png"
 published: true
 ---
 
