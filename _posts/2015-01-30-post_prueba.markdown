@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Post de Prueba
-date: 2014-08-29 14:34:25
+title: Hola Mundo!
+date: 2015-01-29 14:34:25
 categories: prueba prueba2
-tags: regular
+tags: featured
 image: "/assets/article_images/2014-11-30-mediator_features/night-track.JPG"
 published: true
 ---
