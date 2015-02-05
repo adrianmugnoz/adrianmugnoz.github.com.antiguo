@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hola Mundo!"
-date: {}
-categories: prueba prueba2
+date: 2015-01-29 14:34:25
+categories: general
 tags: featured
 image: "/assets/article_images/2014-11-30-mediator_features/night-track.JPG"
 published: true
