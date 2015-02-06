@@ -24,8 +24,6 @@ $$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
 
 ![gif barça](https://lh5.googleusercontent.com/k2Wq8qYMO1baqLwJ8a3fPXFyWCNNdoNYM9BFq73YvoQ=s0 "elscatalans.gif")
 
-```sequence
 Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
-```
