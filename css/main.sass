@@ -58,18 +58,16 @@ body
     background-size: cover
     background-repeat: no-repeat
 
-.advertising
+advertising
   position: fixed
   left: 10px
   top: $rs*4
   overflow: hidden
   z-index: 99
   
-@media (min-width: 600px) {
-  .advertising {
-   display:none;
-  }
-}
+@media all and (max-width: 450px) 
+	advertising 
+		display:none;
 
 .teaserimage
   height: 450px
