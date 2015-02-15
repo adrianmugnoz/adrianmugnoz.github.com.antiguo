@@ -26,28 +26,28 @@ baseurl: ""
 social:
   - icon:	twitter
     url:	https://twitter.com/adrianmugnoz
-    desc: Sígueme en Twitter
+    desc: Síguenos en Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+ - icon:	facebook
+   url:	https://facebook.com/divulgame
+   desc: Síguenos en Facebook
+   share_url: //www.facebook.com/sharer.php
+   share_title: ?t=
+   share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/adrianmugnoz
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/adrianmugnoz
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+ - icon:	google-plus
+   url:	https://www.google.com/+divulgame
+   desc:	Añádeme en google+
+   share_url:
+   share_title:
+   share_link:
