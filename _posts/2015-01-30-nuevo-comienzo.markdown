@@ -8,4 +8,4 @@ image: "https://divulgame.org/wp-content/uploads/2013/05/fetodelfinweb.jpg"
 published: true
 ---
 
-To be done...
+A redactar..
