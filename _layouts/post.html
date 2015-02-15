@@ -78,23 +78,42 @@ $(".diagram").sequenceDiagram({theme: 'hand'});
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
-            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <h5 class="index-headline featured"><span>Escrito por</span></h5>
             <section class="author">
               <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
               <h4>{{ site.author }}</h4>
               <p class="bio">{{author.bio}}</p>
               <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+
+              <!-- Whitespace added for readability -->
+              {% assign m = page.date | date: "%-m" %}
+              {{ page.date | date: "%-d" }}
+              {% case m %}
+                {% when '1' %}Enero
+                {% when '2' %}Febrero
+                {% when '3' %}Marzo
+                {% when '4' %}Abril
+                {% when '5' %}Mayo
+                {% when '6' %}Junio
+                {% when '7' %}Julio
+                {% when '8' %}Agosto
+                {% when '9' %}Septiembre
+                {% when '10' %}Octubre
+                {% when '11' %}Noviembre
+                {% when '12' %}Diciembre
+              {% endcase %}
+
+              <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
           </div>
           {{/post}}
           <div class="isRight">
-            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <h5 class="index-headline featured"><span>Ofrecido por</span></h5>
             <footer class="site-footer">
-              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+              <section class="poweredby">Publicado con <a href="http://jekyllrb.com"> Jekyll</a></section>
+              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Deberías suscribirte a nuestro feed.</span></a>
               <div class="inner">
-                <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+                <section class="copyright">Todo el contenido con copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>Todos los derechos reservados.</section>
               </div>
             </footer>
           </div>
