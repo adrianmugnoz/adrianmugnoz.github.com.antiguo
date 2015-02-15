@@ -8,20 +8,4 @@ image: "https://divulgame.org/wp-content/uploads/2013/05/fetodelfinweb.jpg"
 published: true
 ---
 
-Comienzo este blog con una nueva plataforma de blogging basado en páginas estáticas. Próximamente iré poniendo aquí más contenido, conforme los exámenes me lo permitan.
-
-> El error proviene del hecho de la precipitación
-
-
-
-#Links
-Os animo a visitar [Divúlgame](http://www.divulgame.net).
-
-
-$$a^2 + b^2 = c^2$$
-
-$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
-
-![gif barça](https://lh5.googleusercontent.com/k2Wq8qYMO1baqLwJ8a3fPXFyWCNNdoNYM9BFq73YvoQ=s0 "elscatalans.gif")
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xYn3xlEHEvc" frameborder="0" allowfullscreen></iframe>
+To be done...
