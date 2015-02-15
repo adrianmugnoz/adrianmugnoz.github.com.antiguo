@@ -30,12 +30,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  - icon:	facebook
+    url:	https://facebook.com/divulgame
+    desc: Síguenos en Facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
   - icon:	google-plus
     url:	https://google.com/+divulgame
