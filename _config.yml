@@ -1,4 +1,5 @@
 # Build settings
+markdown: redcarpet
 highlighter: pygments
 
 # Site settings
@@ -30,7 +31,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
- - icon:	facebook
+ - icon: facebook
    url:	https://facebook.com/divulgame
    desc: Síguenos en Facebook
    share_url: //www.facebook.com/sharer.php
@@ -44,9 +45,9 @@ social:
   #   share_title:
   #   share_link:
 
- - icon:	google-plus
+ - icon: google-plus
    url:	https://www.google.com/+divulgame
-   desc:	Añádeme en google+
+   desc: Añádeme en google+
    share_url:
    share_title:
    share_link:
