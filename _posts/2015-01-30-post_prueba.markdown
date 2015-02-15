@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hola Mundo!"
+title: "Un nuevo comienzo"
 date: 2015-01-29 14:34:25
 categories: general
 tags: featured
