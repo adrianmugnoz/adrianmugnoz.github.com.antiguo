@@ -37,9 +37,9 @@ social:
     share_title:
     share_link:
 
- - icon:	google-plus
-   url:	https://google.com/+divulgame
-   desc:	Añádenos en google+
-   share_url:
-   share_title:
-   share_link:
+  - icon:	google-plus
+    url:	https://google.com/+divulgame
+    desc:	Añádenos en google+
+    share_url:
+    share_title:
+    share_link:
