@@ -4,7 +4,7 @@ title: "Hola Mundo!"
 date: 2015-01-29 14:34:25
 categories: general
 tags: featured
-image: "https://d262ilb51hltx0.cloudfront.net/max/1400/1*TMKVJpNgc2uawWFv9OUBkA.png"
+image: "https://divulgame.org/wp-content/uploads/2013/05/fetodelfinweb.jpg"
 published: true
 ---
 
