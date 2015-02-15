@@ -34,7 +34,7 @@ published: true
 <main class="content" role="main">
 
     {% if site.tags.featured %}
-    <h5 class="index-headline featured"><span>Featured</span></h5>
+    <h5 class="index-headline featured"><span>Destacado</span></h5>
 
     <div class="container featured">
       {% for post in site.tags.featured %}
@@ -79,14 +79,14 @@ published: true
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
-        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
+        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Posts más antiguos</a>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">Newer posts &rarr;</a>
+          <a class="older-posts" href="/">Posts más recientes &rarr;</a>
         {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+          <a class="older-posts" href="/page{{paginator.previous_page}}">Posts más recientes &rarr;</a>
         {% endif %}
       {% endif %}
     </nav>
