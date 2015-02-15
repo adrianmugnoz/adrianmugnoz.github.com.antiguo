@@ -30,23 +30,23 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
- - icon:	facebook
-   url:	https://facebook.com/divulgame
-   desc: Síguenos en Facebook
-   share_url: //www.facebook.com/sharer.php
-   share_title: ?t=
-   share_link: "&amp;u="
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
 
-  # - icon:	github
-  #   url:	https://github.com/dirkfabisch
-  #   desc:	Fork me on github
-  #   share_url:
-  #   share_title:
-  #   share_link:
+  - icon:	github
+    url:	https://github.com/dirkfabisch
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
 
- - icon:	google-plus
-   url:	https://google.com/+divulgame
-   desc:	Añádenos en google+
-   share_url:
-   share_title:
-   share_link:
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
