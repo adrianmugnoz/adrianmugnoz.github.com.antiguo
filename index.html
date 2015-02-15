@@ -47,7 +47,26 @@ published: true
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              <time datetime="{{ post.date | date_to_long_string }}">
+                {% assign m = page.date | date: "%-m" %}
+                {{ page.date | date: "%-d" }}
+                {% case m %}
+                {% when '1' %}Ene
+                {% when '2' %}Feb
+                {% when '3' %}Mar
+                {% when '4' %}Abr
+                {% when '5' %}May
+                {% when '6' %}Jun
+                {% when '7' %}Jul
+                {% when '8' %}Ago
+                {% when '9' %}Sep
+                {% when '10' %}Oct
+                {% when '11' %}Nov
+                {% when '12' %}Dic
+                {% endcase %}
+                {{ page.date | date: "%Y" }}
+
+              </time>
   <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
@@ -69,7 +88,25 @@ published: true
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              <time datetime="{{ post.date | date_to_long_string }}">
+                {% assign m = page.date | date: "%-m" %}
+                {{ page.date | date: "%-d" }}
+                {% case m %}
+                {% when '1' %}Ene
+                {% when '2' %}Feb
+                {% when '3' %}Mar
+                {% when '4' %}Abr
+                {% when '5' %}May
+                {% when '6' %}Jun
+                {% when '7' %}Jul
+                {% when '8' %}Ago
+                {% when '9' %}Sep
+                {% when '10' %}Oct
+                {% when '11' %}Nov
+                {% when '12' %}Dic
+                {% endcase %}
+                {{ page.date | date: "%Y" }}
+              </time>
 <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
