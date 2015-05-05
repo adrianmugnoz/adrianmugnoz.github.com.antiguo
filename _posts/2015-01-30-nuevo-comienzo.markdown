@@ -34,6 +34,9 @@ Hemos rediseñado el nótame para que estés más agusto y puedas debatir sobre 
 
 No importa el lugar de la web en el que estés, siempre tendrás a mano tus suscripciones.
 
+## Notificaciones push
+
+
 ## Modo noche
 
 ![](http://i.imgur.com/42ws523.png)
