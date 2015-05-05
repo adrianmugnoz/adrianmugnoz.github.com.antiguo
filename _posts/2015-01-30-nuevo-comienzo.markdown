@@ -7,6 +7,9 @@ tags: featured
 image: "http://i.imgur.com/Ld6EvEn.jpg"
 published: true
 ---
+Tras cuatro años con vosotros, llega el que supone el mayor cambio en Divúlgame hasta la fecha. Seguimos con la misma idea y filosofía con la que empezamos, que no es otra que potenciar la divulgación de la ciencia y ayudar a crecer a los nuevos divulgadores en este medio tan accesible que es internet. Manteniendo nuestros principios, este cambio trae un soplo de aire fresco a Divúlgame; queremos ofrecer un sitio más social y moderno, un lugar de referencia para compartir y descubrir ciencia y cultura.
+
+Para ello, nos hemos centrado en vosotros, los usuarios, pues sois los verdaderos protagonistas. Ahora podréis crear vuestras propias comunidades dentro de divúlgame, debatir o dialogar con más comodidades en el Nótame, o disfrutar de la web en cualquier dispositivo totalmente adaptada entre otras muchas cosas que os enumeramos a continuación.
 
 ## Perfiles verificados
 
@@ -48,4 +51,13 @@ Aunque estés en otra pestaña, podrás ver si has recibido alguna notificación
 
 ![](http://i.imgur.com/42ws523.png)
 
-Para que los más nocturnos se sientan cómodos
+Para que los más nocturnos se sientan cómodos. Podrás activarlo desde tus preferencias
+
+## Y todavía quedan más sorpresas
+
+![](http://i.imgur.com/CgrPOAm.png)
+
+Muy pronto
+
+
+Esperamos que todas estas novedades sean de vuestro agrado y podéis dejarnos sugerencias un poco más abajo. Muchas gracias por ser partícipes de este proyecto y ¡a divulgar!
