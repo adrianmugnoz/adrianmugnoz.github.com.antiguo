@@ -15,10 +15,10 @@ published: true
 ![](http://i.imgur.com/zbx2wWe.png)
 
 ## Nótame rediseñado
-![](http://imgur.com/7LwJbeb,zbx2wWe,95N7Doi,Otl2HBM,42ws523#2)
+![](http://imgur.com/95N7Doi.png)
 
 ## Tus suscripciones siempre presentes
-![](http://imgur.com/7LwJbeb,zbx2wWe,95N7Doi,Otl2HBM,42ws523#3)
+![](http://imgur.com/Otl2HBM.png)
 
 ## Modo noche
 ![](http://i.imgur.com/42ws523.png)
