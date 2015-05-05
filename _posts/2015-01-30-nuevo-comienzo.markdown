@@ -4,7 +4,7 @@ title: Un nuevo comienzo
 date: 2014-08-29 07:34:25 -0700
 categories: general
 tags: featured
-image: "http://katiemilton.com/wp/wp-content/uploads/2013/09/new-beginning.jpg"
+image: "https://morselsofbread.files.wordpress.com/2014/07/a-new-beginning.jpg"
 published: true
 ---
 
