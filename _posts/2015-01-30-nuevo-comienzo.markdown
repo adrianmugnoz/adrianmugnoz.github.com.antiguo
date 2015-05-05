@@ -12,7 +12,7 @@ published: true
 
 ![](http://i.imgur.com/7LwJbeb.png)
 
-Hemos rediseñado los perfiles y añadido verificación, pronto os informaremos sobre como verificar el tuyo.
+Hemos rediseñado los perfiles y añadido verificación, pronto os informaremos sobre como proceder para verificar un perfil.
 
 ## Subs personalizados
 
