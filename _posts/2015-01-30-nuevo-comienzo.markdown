@@ -16,7 +16,7 @@ Hemos rediseñado los perfiles y añadido verificación, pronto os informaremos 
 
 ## Subs personalizados
 
-![](http://i.imgur.com/zbx2wWe.png)
+![](http://i.imgur.com/z6XL26e.gif)
 
 Ahora podrás crear tu propio sub en un par de minutos. ¡Crear una comunidad nunca fue tan fácil!
 
