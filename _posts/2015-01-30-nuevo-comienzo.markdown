@@ -35,7 +35,9 @@ Hemos rediseñado el nótame para que estés más agusto y puedas debatir sobre 
 No importa el lugar de la web en el que estés, siempre tendrás a mano tus suscripciones.
 
 ## Notificaciones push
+![](http://i.imgur.com/ilvyJYC.jpg)
 
+Recibe en tu móvil o escritorio notificaciones de las nuevas noticias que llegan a portada gracias a Pushbullet. Podrás suscribirte tanto a la portada general, como a las portadas de los subs.
 
 ## Modo noche
 
