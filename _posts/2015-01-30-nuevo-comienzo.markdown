@@ -4,7 +4,7 @@ title: Un nuevo comienzo
 date: 2014-08-29 07:34:25 -0700
 categories: general
 tags: featured
-image: "http://i.imgur.com/6xoOZjM.png"
+image: "http://i.imgur.com/Ld6EvEn.jpg"
 published: true
 ---
 
