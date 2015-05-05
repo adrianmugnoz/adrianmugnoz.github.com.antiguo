@@ -18,10 +18,13 @@ Para ello, nos hemos centrado en vosotros, los usuarios, pues sois los verdadero
 Hemos rediseñado los perfiles y añadido verificación, pronto os informaremos sobre como proceder para verificar un perfil.
 
 ## Subs personalizados
+Las categorías dejan paso a los subs, cada uno de los cuales con su propia personalización.
 
 ![](http://i.imgur.com/z6XL26e.gif)
 
-Ahora podrás crear tu propio sub en un par de minutos. ¡Crear una comunidad nunca fue tan fácil!
+Podrás suscribirte a los subs que desees y crearte tu portada personalizada si así lo quieres.
+
+Además, ahora podrás crear tu propio sub en el que se podrán compartir tanto enlaces como posts de texto. ¡Crear una comunidad nunca fue tan fácil!
 
 ![](http://i.imgur.com/Sd0mrCO.png)
 
@@ -30,6 +33,8 @@ Ahora podrás crear tu propio sub en un par de minutos. ¡Crear una comunidad nu
 ![](http://imgur.com/95N7Doi.png)
 
 Hemos rediseñado el nótame para que estés más agusto y puedas debatir sobre cualquier cosa con el resto de la comunidad. Ahora con autocompletado de usuarios y emoticonos ;-)
+
+En tus preferencias puedes decidir si quieres que por defecto te aparezcan todas las notas o las de tus amigos.
 
 ## Tus suscripciones siempre presentes
 
@@ -40,7 +45,7 @@ No importa el lugar de la web en el que estés, siempre tendrás a mano tus susc
 ## Notificaciones push con las nuevas noticias
 ![](http://i.imgur.com/ilvyJYC.jpg)
 
-Recibe en tu móvil o escritorio notificaciones de las nuevas noticias que llegan a portada gracias a Pushbullet. Podrás suscribirte tanto a la portada general, como a las portadas de los subs.
+Recibe en tu móvil o escritorio notificaciones de las nuevas noticias que llegan a portada gracias a [Pushbullet](https://www.pushbullet.com/). Podrás suscribirte tanto a la portada general, como a las portadas de los subs.
 
 ## Siempre alerta
 ![](http://i.imgur.com/GM3jN9r.png)
@@ -51,7 +56,7 @@ Aunque estés en otra pestaña, podrás ver si has recibido alguna notificación
 
 ![](http://i.imgur.com/42ws523.png)
 
-Para que los más nocturnos se sientan cómodos. Podrás activarlo desde tus preferencias
+Para que los más nocturnos se sientan cómodos. Podrás activarlo desde tus preferencias.
 
 ## Y todavía quedan más sorpresas
 
