@@ -62,7 +62,7 @@ Para que los más nocturnos se sientan cómodos. Podrás activarlo desde tus pre
 
 ![](http://i.imgur.com/CgrPOAm.png)
 
-Permanece atento ;-)
+Permaneced atentos ;-)
 
 Esperamos que todas estas novedades sean de vuestro agrado y podéis dejarnos sugerencias un poco más abajo. Muchas gracias por ser partícipes en este proyecto y ¡a divulgar! 
 
