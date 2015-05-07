@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un nuevo comienzo
-date: 2014-08-29 07:34:25 -0700
+date: 2015-05-07 07:34:25 -0700
 categories: general
 tags: featured
 image: "http://i.imgur.com/Ld6EvEn.jpg"
