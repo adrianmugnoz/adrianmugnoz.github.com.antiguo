@@ -62,7 +62,8 @@ Para que los más nocturnos se sientan cómodos. Podrás activarlo desde tus pre
 
 ![](http://i.imgur.com/CgrPOAm.png)
 
-Muy pronto
+Permanece atento ;-)
 
+Esperamos que todas estas novedades sean de vuestro agrado y podéis dejarnos sugerencias un poco más abajo. Muchas gracias por ser partícipes en este proyecto y ¡a divulgar! 
 
-Esperamos que todas estas novedades sean de vuestro agrado y podéis dejarnos sugerencias un poco más abajo. Muchas gracias por ser partícipes en este proyecto y ¡a divulgar!
+[Volver a Divúlgame.NET](http://divulgame.net)
