@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Divúlgame.NET"
 description: > # this means to ignore newlines until "email:"
-   Blog corporativo
+   Blog
 email: adrianmugnoz@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
